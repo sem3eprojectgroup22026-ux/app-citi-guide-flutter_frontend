@@ -6,7 +6,7 @@ Flutter mobile app connected to the City Guide Spring Boot API.
 
 The app uses the deployed API at:
 
-`https://app-citi-guide-backend.onrender.com`
+`https://city-guide-backend-97jc.onrender.com`
 
 The base URL is defined in `lib/store.dart`. Update it there if the backend URL changes.
 
